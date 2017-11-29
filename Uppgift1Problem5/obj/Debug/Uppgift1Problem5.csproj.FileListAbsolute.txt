@@ -1,0 +1,7 @@
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\bin\Debug\Uppgift1Problem5.exe.config
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\bin\Debug\Uppgift1Problem5.exe
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\bin\Debug\Uppgift1Problem5.pdb
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\obj\Debug\Uppgift1Problem5.csprojResolveAssemblyReference.cache
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\obj\Debug\Uppgift1Problem5.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\obj\Debug\Uppgift1Problem5.exe
+C:\Users\Max\source\repos\Uppgift1Problem5\Uppgift1Problem5\obj\Debug\Uppgift1Problem5.pdb
